@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://github.com/NikitaLemesh/rsschool-cv
+## https://NikitaLemesh.github.io/rsschool-cv/
